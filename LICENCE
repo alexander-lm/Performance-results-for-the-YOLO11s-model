@@ -1,0 +1,18 @@
+# LICENSE
+
+## Results Data (CSV files)
+
+`Training_results.csv` and `Test_results.csv` are available under the terms
+of the Creative Commons Attribution 4.0 International license (CC-BY 4.0).
+
+See: https://creativecommons.org/licenses/by/4.0/.
+
+## Notes
+
+These CSV files contain metrics obtained during the training and evaluation of
+YOLO11s for pest detection.
+
+The YOLO11s model and source code are licensed under AGPL-3.0.
+See: https://github.com/ultralytics/ultralytics/blob/main/LICENSE
+
+Source code repository: https://github.com/alexander-lm/PestNeuroVision
