@@ -12,7 +12,7 @@ See: https://creativecommons.org/licenses/by/4.0/.
 These CSV files contain metrics obtained during the training and evaluation of
 YOLO11s for pest detection.
 
-The YOLO11s model and source code are licensed under AGPL-3.0.
+The YOLO11s model and source code, developed by Ultralytics, are licensed under AGPL-3.0.
 See: https://github.com/ultralytics/ultralytics/blob/main/LICENSE
 
 Source code repository: https://github.com/alexander-lm/PestNeuroVision
